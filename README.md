@@ -2,7 +2,7 @@
 TRANSPORTATION AND LOGISTICS MANAGEMENT
 # 1. Course Overview
 
-This repository presents the key knowledge and practical applications gained from SCLM 429 - Transportation and Logistics Management. It includes selected course concepts and a group project focusing on transportation planning, facility location, and logistics strategy.
+This repository presents the key knowledge and practical applications gained from SCLM 429 - Transportation and Logistics Management. It includes selected course concepts and a group project focusing on transportation planning, facility location, and logistics strategy. 
 
 ---
 
